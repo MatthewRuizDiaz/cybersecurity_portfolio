@@ -7,3 +7,7 @@ The field of cybersecurity is impactful to me because of the opportunity to use 
 # Conducting a Security Audit:
 
 This project demonstrates my ability to complete a security audit for an organization. In this example, the company is Botium Company which does not exist but has one physical location and an online store which conducts credit card transations and stores personally identifiable information, internationally. It's security posture was extremely high risk and the documents written describe the audit through a controls assessment, compliance checklist, and finally a memo to stakeholders describing the situation and the steps to take to have an industry standard security posture. 
+
+# Cyber Security Incident Report:
+
+This document shows my ability to complete an incident report using network analysis and tcpdump logs. The document states all relevant information about the incident: what time it was reported and by who, as well as the network teams response, investigation, progress and solution. 
