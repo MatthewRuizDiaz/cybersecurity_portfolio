@@ -15,3 +15,7 @@ This document shows my ability to complete an incident report using network anal
 # Cyber Security Incident Report - Analyzing Network Attacks:
 
 This document has a writeup relating to an example SYN flooding attack. It shows how the attack was recognized from wireshark logs and the exact way a SYN connection is supposed to be formed. It also demonstrates an understanding of the exact consequences of one of these attacks should they be successful.
+
+# Cybersecurity Incident Report - Brute Force Incident:
+
+This document is an incident report relating to a simulated brute force attack on a simple website. The attacker gained admin privileges by brute force to obtain the username and password. They changed the source code to insert a javascript function to download a malicious file and redirect the user to another website, all using the HTTP protocol. This work shows an understanding of HTTP protocols vulnerabilities and to read network logs.
