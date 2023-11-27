@@ -22,5 +22,8 @@ This document is an incident report relating to a simulated brute force attack o
 
 # Cybersecurity Risk Assessment Report - Defense Hardening:
 
-This document is a list of recommendations for certain NIST standards and firewall strategies to harden the defenses of a network given a breach to fictional organization. I also give recomendations for MFA, internal permissions auditing, and potential attacks. 
+This document is a list of recommendations for certain NIST standards and firewall strategies to harden the defenses of a network given a breach to an organization. I also give recomendations for MFA, internal permissions auditing, and potential attacks. 
 
+# Cybersecurity Linux File Permissions Activity:
+
+This document shows a situation where an organization needs to manage file permissions on its linux system to be in compliance with the principle of least permissions. This is done by changing the permissions on every file, with specific instructions for the user, the group, and other. Every task was completed using linux commands in the CLI. 
