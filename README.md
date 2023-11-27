@@ -31,3 +31,7 @@ This document shows a situation where an organization needs to manage file permi
 # SQL Query and Filtering Activity:
 
 This document describes a scenario where an organization wants to investigate certain security issues and update some outdated computers. This is done by using SQL to query specific data relating to those security issues as well as employees that have outdated computers. There is a login_attempts table as well as an employees table and I pulled data from both. 
+
+# Vulnerability Assessment Report
+
+This document is an assessment of the vulnerability to assets contained in a database configuration which consists of: a 128 GB server, MySQL DB management software, and a stable network. 
