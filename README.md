@@ -44,5 +44,6 @@ This document is a collection of journal entries relating to security incidents 
 
 This document contains the workflow of a python algorithm designed to update files, specifically it changes a text file with access control privileges from an old list to an updated list. This is done using built-in python functions such as read, write, and open.
 
-# Notes
+# Comments:
+
 I would like to add that some of these documents are templates provided by the Google Cybersecurity Certificate program but all work done in them is my own. 
