@@ -35,3 +35,7 @@ This document describes a scenario where an organization wants to investigate ce
 # Vulnerability Assessment Report
 
 This document is an assessment of the vulnerability to assets contained in a database configuration which consists of: a 128 GB server, MySQL DB management software, and a stable network. 
+
+# Incident Handler's Journal
+
+This document is a collection of journal entries relating to security incidents and a detailed description of what happened, what tools were used, and specific information regarding the event plus any additional notes. This was made to show knowledge of traditional documentation in incident response to learn and prevent similar situations from recurring.
