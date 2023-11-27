@@ -32,10 +32,14 @@ This document shows a situation where an organization needs to manage file permi
 
 This document describes a scenario where an organization wants to investigate certain security issues and update some outdated computers. This is done by using SQL to query specific data relating to those security issues as well as employees that have outdated computers. There is a login_attempts table as well as an employees table and I pulled data from both. 
 
-# Vulnerability Assessment Report
+# Vulnerability Assessment Report:
 
 This document is an assessment of the vulnerability to assets contained in a database configuration which consists of: a 128 GB server, MySQL DB management software, and a stable network. 
 
-# Incident Handler's Journal
+# Incident Handler's Journal:
 
 This document is a collection of journal entries relating to security incidents and a detailed description of what happened, what tools were used, and specific information regarding the event plus any additional notes. This was made to show knowledge of traditional documentation in incident response to learn and prevent similar situations from recurring.
+
+# Algorithm for Python File Updates Activity:
+
+This document contains the workflow of a python algorithm designed to update files, specifically it changes a text file with access control privileges from an old list to an updated list. This is done using built-in python functions such as read, write, and open.
